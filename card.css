@@ -19,7 +19,7 @@ body{
     display: flex;
     justify-content: center;
     transform-style: preserve-3d;
-    background-image: url("头像.gif");
+    background-image: url("动头像.gif");
     transition: 1.5s;
     box-shadow: 0 0 20px #000;
 }
